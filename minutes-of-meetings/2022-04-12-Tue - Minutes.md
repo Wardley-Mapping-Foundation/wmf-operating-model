@@ -1,8 +1,8 @@
 # Meeting on 2022-04-13 (Tuesday)
 ## Logistics
-Where: Online via [Meetup](https://www.meetup.com/wardley-maps-foundation/events/wrmjssydcgbqb/)
-When: 16:00 to 17:00 CEST (Central European Summer Time) [View in your timezone](https://everytimezone.com/?t=6254c100,348)
-Attending: [Simon](https://twitter.com/swardley), [Steve](https://twitter.com/spurkis), [Adrian](https://twitter.com/adrianco), [Julius](https://twitter.com/juliusgb2k)
+- Where: Online via [Meetup](https://www.meetup.com/wardley-maps-foundation/events/wrmjssydcgbqb/)
+- When: 16:00 to 17:00 CEST (Central European Summer Time) [View in your timezone](https://everytimezone.com/?t=6254c100,348)
+- Attending: [Simon](https://twitter.com/swardley), [Steve](https://twitter.com/spurkis), [Adrian](https://twitter.com/adrianco), [Julius](https://twitter.com/juliusgb2k)
 
 Agenda
 - Step back & re-org.
