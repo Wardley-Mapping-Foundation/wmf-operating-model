@@ -1,4 +1,4 @@
-# Meeting on 2022-04-13-Tue
+# Meeting on 2022-04-13 (Tuesday)
 ## Logistics
 Where: Online via [Meetup](https://www.meetup.com/wardley-maps-foundation/events/wrmjssydcgbqb/)
 When: 16:00 to 17:00 CEST (Central European Summer Time) [View in your timezone](https://everytimezone.com/?t=6254c100,348)
@@ -13,10 +13,13 @@ Agenda
 ## Follow-ups and direction
 
 - [x] Setup Github account. See https://github.com/Wardley-Mapping-Foundation
-- [ ] Create repo with 3 files
-	- [ ] 1 readme - states what the repo is for 
+- [x] Create repo with 3 files to get going
+	- [x] 1 readme - states what the repo is for 
 	- [ ] 1 file for purpose
 	- [ ] 1 file for principles
+- [ ] Reach out to potential trustees
+- [ ] Start moving Operating Model content from Miro
+- [ ] Shrink calls of weekly sessions to 30min, and organise another one for others in different timezones to attend
 
 ## Discussions
 
@@ -26,18 +29,20 @@ Agenda
 - People coming in and people dropping off. We'd like to look at how to sustain commitment.
 
 ### Core team to run the foundation
-The structure to run the foundation would look like this:
+(Steve: please note, the following is exploratory, not definitive.  We've talked structure on many different occasions, this needs to be finalised by trustees.  There's more detail on the Miro board, let's start by moving it to this repo)
+
+The structure to run the foundation *might* look like this:
 - On demand support from Simon
 - Board of trustees who aren't as involved in running the day to day stuff.
-- Need some to run the org: COO, Treasurer, Secretariat
+- Need some to run the org: CEO, Treasurer, Secretariat
 - Then those in working groups
 
 ### Getting started
 
 Start with GitHub - we create a repository there and that becomes the central place where everything takes place.
 - Different groups/phases can have different github repositories, such as working groups, governance, etc.
-- Any one can contribute. 
-- And there'd be also "committers" who'd be on the steering committee.
+- Any one can contribute changes as a "Pull Request".
+- A limited group of people can save changes ("committers").  This can be the trustees, we'll grow from there.
 - Start with 3 files
 	- 1 readme - states what the repo is for 
 	- 1 file for purpose
