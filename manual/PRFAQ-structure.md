@@ -1,7 +1,9 @@
 # PR/FAQ Structure for reference
-A Press Release / Frequently Asked Questions structure based on common practice at Amazon.  Format adapted from Adrian Cockroft's proposal.
+A Press Release / Frequently Asked Questions structure based on common "Future Backwards" practices at organisations like Amazon, Cynefin Co, etc.  Format adapted from Adrian Cockroft's proposal.  Adjust as necessary for your context (eg: add / remove questions).
 
-See more detail here: https://coda.io/@colin-bryar/working-backwards-how-write-an-amazon-pr-faq
+See more detail here:
+ - https://coda.io/@colin-bryar/working-backwards-how-write-an-amazon-pr-faq
+ - https://cynefin.io/wiki/Future_backwards
 
 ---
 ## Launch Headline: What is a short, compelling product launch headline?  (one short phrase/sentence)
@@ -30,6 +32,7 @@ Answer
 
 ### Q: What alternatives did you consider?
 
-## Next steps
-What teams should we partner with and/or approach to hand off this idea? 
+## INTERNAL: Frequently Asked Questions (FAQ)
+### Q: What are the next steps?
 
+### Q: What teams should we partner with and/or approach to hand off this idea? 
