@@ -20,4 +20,4 @@ We subscribe to Curry's premise that **cooperative interactions are non-zero-sum
 
 We are:
 1. **Open** - we promote open bodies of knowledge, standards, tools & services that, wherever possible, are free to use.  Years ago, Simon Wardley decided to gift his mapping research to the public, we seek to maintain that tradition.
-1. **Inclusive** - we believe that diversity of perspectives & thought builds stronger ideas & organisations.  As we serve people the world over, it makes sense that anyone is welcome to join, contribute or attend events.
+1. **Inclusive** - we believe that diversity of perspectives & thought builds more resilient ideas & organisations.  As we serve people the world over, it makes sense that anyone is welcome to join, contribute or attend events.
