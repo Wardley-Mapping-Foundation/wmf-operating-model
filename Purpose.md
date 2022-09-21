@@ -11,7 +11,7 @@ To achieve this, its focus is to:
 
 # Operating Principles
 We use Simon's 40 guides to help us make better decisions.
-![40 guides to better decisions](https://pbs.twimg.com/media/ErsAqc4WMAAz5jL?format=jpg&name=large)
+![40 guides to better decisions](assets/40Guides.jpeg)
 
 # Values
 Shalom Schwartz' [Theory of Basic Values](https://doi.org/10.9707/2307-0919.1116), and Oliver Scott Curry's [7 Universal Moral Rules](https://doi.org/10.1086/701478) both suggest that people share a universal set of human values regardless of race, ethniticy, gender, etc.
