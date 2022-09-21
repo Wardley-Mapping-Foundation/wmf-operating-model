@@ -11,7 +11,89 @@ To achieve this, its focus is to:
 
 # Operating Principles
 We use Simon's 40 guides to help us make better decisions.
-![40 guides to better decisions](assets/40Guides.jpeg)
+![Table displaying Wardley's Doctrine, universally useful patterns that a user can apply regardless of context. Format is the Steve Purkis variation: rows are phases of adoption, columns are categories of patterns. Description of the table entries starts from the bottom left and finishes at the top right.
+
+Phase 1
+Communication
+Common language
+Challenge assumptions
+Understand what is being considered
+
+Development
+Know your users
+Focus on user needs
+Remove bias and duplication
+Use appropriate methods
+
+Operation
+Know the details
+
+Learning
+Bias towards data
+
+Phase 2
+
+Communication
+A bias towards open
+
+Development
+Focus on the outcome
+Think fast, inexpensive, restrained and elegant
+Use appropriate tools
+Be pragmatic
+Use standards
+
+Operation
+Manage inertia
+Manage failure
+Effectiveness over efficiency
+
+Learning
+Bias towards action
+
+Leading
+Move fast
+Strategy is iterative
+
+Structure
+Think small teams
+Distribute power and decision making
+Think aptitude and attitude
+
+Phase 3
+
+Operation
+Optimise flow
+Do better with less
+Set exceptional standards
+
+Learning
+Bias towards the new
+
+Leading
+Commit to the direction
+Be the owner
+Inspire others
+Embrace uncertainty
+Be humble
+
+Structure
+Provide purpose, mastery and autonomy
+Seek the best
+
+Phase 4
+
+Learning
+Listen to your ecosystem
+
+Leading
+Exploit the landscape
+There is no core
+
+Structure
+Design for constant evolution
+No single culture
+](assets/40Guides.jpeg)
 
 # Values
 Shalom Schwartz' [Theory of Basic Values](https://doi.org/10.9707/2307-0919.1116), and Oliver Scott Curry's [7 Universal Moral Rules](https://doi.org/10.1086/701478) both suggest that people share a universal set of human values regardless of race, ethniticy, gender, etc.
