@@ -7,7 +7,7 @@
 ## Service Description
 The Foundation's Discord service is is the easiest way to connect and collaborate with other members of the Wardley Mapping Community over voice, video and text. You can organise events, join voice & video calls, chat with groups & individuals in public & private channels, and share content.  We welcome all people and strive to create a **safe space** for the community that supports the Foundation's [purpose, principles & values](../Purpose.md).
 
-To create your account, follow [this link](https://discord.com/invite/upg2deYD3Z) and let the Discord app guide you.  If you need a new community channel or would like to host an event, request one by opening a ticket in the Foundation's ['wmf-operating-mode' GitHub repository](https://github.com/Wardley-Mapping-Foundation/wmf-operating-model).
+To create your account, follow [this link](https://discord.com/invite/upg2deYD3Z) and let the Discord app guide you.  If you need a new community channel or would like to host an event, request one by opening a ticket in the Foundation's ['wmf-operating-model' GitHub repository](https://github.com/Wardley-Mapping-Foundation/wmf-operating-model).
 
 If you need help send a message to `@admins` or `@moderator` in any chat.  If you can't get into Discord, ping [@wardleymaps](https://twitter.com/wardleymaps) on Twitter.
 
