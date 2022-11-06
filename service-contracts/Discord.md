@@ -11,7 +11,7 @@ To create your account, follow [this link](https://discord.com/invite/upg2deYD3Z
 
 If you need help send a message to `@moderator` in any chat.  If you can't get into Discord, ping [@wardleymaps](https://twitter.com/wardleymaps) on Twitter.
 
-If the service is not meeting your expectations, please let us know by messaging `@modertor` in any chat.
+If the service is not meeting your expectations, please let us know by messaging `@modertor` in any chat, or email [hello@wardleymap.org](mailto:hello@wardleymap.org).
 
 ## User Needs
 As a **Wardley Mapping Newcomer** or **Community Member**  
