@@ -9,44 +9,44 @@ The Foundation's Discord service is is the easiest way to connect and collaborat
 
 To create your account, follow [this link](https://discord.com/invite/upg2deYD3Z) and let the Discord app guide you.  If you need a new community channel or would like to host an event, request one by opening a ticket in the Foundation's ['wmf-operating-model' GitHub repository](https://github.com/Wardley-Mapping-Foundation/wmf-operating-model).
 
-If you need help send a message to `@admins` or `@moderator` in any chat.  If you can't get into Discord, ping [@wardleymaps](https://twitter.com/wardleymaps) on Twitter.
+If you need help send a message to `@moderator` in any chat.  If you can't get into Discord, ping [@wardleymaps](https://twitter.com/wardleymaps) on Twitter.
 
-If the service is not meeting your expectations, please let us know by messaging `@admins` or `@modertor` in any chat.
+If the service is not meeting your expectations, please let us know by messaging `@modertor` in any chat.
 
 ## User Needs
-As a **Wardley Mapping Newcomer**
-I need discuss Wardley Mapping with practitioners & learners around the world
-so that I feel inspired, challenged, and able to apply Wardley Mapping in my context.
+As a **Wardley Mapping Newcomer** or **Community Member**  
+I need discuss Wardley Mapping with practitioners & learners around the world  
+so that I feel inspired, challenged, and able to apply Wardley Mapping in my context
 
 Metrics:
 - Active users by segment
 - Answer ratio per topic & category (eg: learning process, individual problems, etc.)
 - Sentiment analysis by segment
 
-As a **Community Member**
-I need to share available learning resources and knowledge about Wardley Mapping
+As a **Community Member**  
+I need to share available learning resources and knowledge about Wardley Mapping  
 So that I can improve the state of Wardley Mapping
 
 Metrics:
 - Answer ratio per topic & category
 - Amount of duplicated work
 
-As a **Foundation** or **Community Member** or **Conference Organiser**
-I need to understand community demographics, trends, and topics of interest
+As a **Foundation** or **Community Member** or **Conference Organiser**  
+I need to understand community demographics, trends, and topics of interest  
 So that I can improve the state of Wardley Mapping
 
 Metrics:
 - Content, research & conferences using data
 
-As a **Community Member** or **Researcher**
-I need to discuss my vision & work with experts & practitioners from around the world
+As a **Community Member** or **Researcher**  
+I need to discuss my vision & work with experts & practitioners from around the world  
 So that I can improve the state of Wardley Mapping
 
 Metrics:
 - Quantity of ideas/research discussed
 
-As a **Foundation Team Member**
-I need to discuss & coordinate work with my teammates and the Wardley Mapping community
+As a **Foundation Team Member**  
+I need to discuss & coordinate work with my teammates and the Wardley Mapping community  
 so that I can deliver services to the Foundation, the community, and the public
 
 Metrics:
