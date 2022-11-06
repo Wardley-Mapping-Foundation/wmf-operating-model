@@ -5,66 +5,63 @@
 ### Evolution: _Product_
 
 ## Service Description
-_Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with other members of the Wardley Mapping Community._
+The Foundation's Discord service is is the easiest way to connect and collaborate with other members of the Wardley Mapping Community over voice, video and text. You can organise events, join voice & video calls, chat with groups & individuals in public & private channels, and share content.  We welcome all people and strive to create a **safe space** for the community that supports the Foundation's [purpose, principles & values](../Purpose.md).
 
-_Discord, operated by the foundation, will gather community members in one place and boost interaction and collaboration._
+To create your account, follow [this link](https://discord.com/invite/upg2deYD3Z) and let the Discord app guide you.  If you need a new community channel or would like to host an event, request one by opening a ticket in the Foundation's ['wmf-operating-mode' GitHub repository](https://github.com/Wardley-Mapping-Foundation/wmf-operating-model).
 
-_To create your account, follow [this link](https://discord.com/invite/upg2deYD3Z) and let the Discord app guide you._
+If you need help send a message to `@admins` or `@moderator` in any chat.  If you can't get into Discord, ping [@wardleymaps](https://twitter.com/wardleymaps) on Twitter.
 
-_If you need a new community channel, request one by opening issue in [this Github repository](https://github.com/Wardley-Mapping-Foundation/wmf-operating-model)._
-
-_When any assistance is needed, notify @admin or @moderator in a chat. If you can't get into Discord server, ping @wardleymaps on twitter._
-
-_When you are unhappy with the service, tell @admin or @modertor in a chat._
-
+If the service is not meeting your expectations, please let us know by messaging `@admins` or `@modertor` in any chat.
 
 ## User Needs
-As a _newcomer_  
-I need _to ask other members of the community about their experience with maps_  
-so that _I understand what to expect from the learning process and I am not anxious about it_.
+As a **Wardley Mapping Newcomer**
+I need discuss Wardley Mapping with practitioners & learners around the world
+so that I feel inspired, challenged, and able to apply Wardley Mapping in my context.
 
 Metrics:
-- Ratio of answered/asked questions about the learning process.
+- Active users by segment
+- Answer ratio per topic & category (eg: learning process, individual problems, etc.)
+- Sentiment analysis by segment
 
-As a _newcomer_  
-I need _to discuss how to apply Wardley Mapping for my problem with other community members_  
-so that _I can focus on solving the problem not on the mapping application_.
-
-Metrics:
-- Ratio of answered/asked questions about solving a particular problem with mapping.
-
-As a _community member_
-I need _to ask a community for available resources and existing knowledge_
-so that _I can avoid duplicating work_.
+As a **Community Member**
+I need to share available learning resources and knowledge about Wardley Mapping
+So that I can improve the state of Wardley Mapping
 
 Metrics:
-- Ratio of answered/asked questions about earlier work.
+- Answer ratio per topic & category
+- Amount of duplicated work
 
-As a _community member_
-I need _to understand what topics are hot_
-so that _I can create long-form content about them and help others learn faster_.
-
-Metrics:
-- Number of articles/blogposts and other materials based on hottest topics fed back into community.
-
-As an _active community member_  
-I need _a place where I can meet mapping experts_  
-so that _I can bring my vision for the community to life with the help of others_.
+As a **Foundation** or **Community Member** or **Conference Organiser**
+I need to understand community demographics, trends, and topics of interest
+So that I can improve the state of Wardley Mapping
 
 Metrics:
-- Number of community ideas discussed publicly.
+- Content, research & conferences using data
 
-As a _Foundation Team Member_  
-I need _to discuss & coordinate work with my teammates and the Wardley Mapping community_  
-so that _I can deliver services to the Foundation, the community, and the public_
+As a **Community Member** or **Researcher**
+I need to discuss my vision & work with experts & practitioners from around the world
+So that I can improve the state of Wardley Mapping
 
 Metrics:
-- Number of community ideas discussed publicly.
+- Quantity of ideas/research discussed
 
+As a **Foundation Team Member**
+I need to discuss & coordinate work with my teammates and the Wardley Mapping community
+so that I can deliver services to the Foundation, the community, and the public
+
+Metrics:
+- Active users by segment
+- Sentiment analysis by segment
+- Complaints per month
 
 ## Service Measures
- - _Number of complaints per month._
-
+- Active users by segment
+- Answer ratio per topic & category (eg: learning process, individual problems, etc.)
+- Sentiment analysis by segment
+- Amount of duplicated work
+- Content, research & conferences using data
+- Quantity of ideas/research discussed
+- Complaints per month
 
 ## Service Dependencies
  - _none_
