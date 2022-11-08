@@ -24,4 +24,4 @@ Went over feedback we got about the different structures of legal entities. Dire
 
 - Walked through the frame "Governance" on the Miro board, https://miro.com/app/board/uXjVOcvEfQM=/?moveToWidget=3458764537067591333&cot=14
 
-- Another reason for not choosing a Charity structure is to be more independent of donors. Some donations could come with strings attached.
+- Another reason for not choosing a Charity or CIC structure is to be more independent of donors. Some donations could come with strings attached.
