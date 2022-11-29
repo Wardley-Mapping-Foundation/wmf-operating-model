@@ -4,7 +4,7 @@
 
 - Where: Online via [Meetup](https://www.meetup.com/wardley-mapping-foundation/events/289644918/)
 - When: 15:00 to 15:30 GMT
-- Attending: [Adrian Cockcroft](https://twitter.com/adrianco), [Ann Bergin](https://twitter.com/agvbergin), [Catherine Walker](https://twitter.com/transageo), and [Julius Gamanyi](https://twitter.com/juliusgb2k), [Paul Johnston](https://twitter.com/PaulDJohnston)
+- Attending: [Adrian Cockcroft](https://twitter.com/adrianco), [Ann Bergin](https://twitter.com/agvbergin), [Catherine Walker](https://twitter.com/transageo), [Julius Gamanyi](https://twitter.com/juliusgb2k), [Paul Johnston](https://twitter.com/PaulDJohnston)
 
 ## Follow-ups and direction
 
