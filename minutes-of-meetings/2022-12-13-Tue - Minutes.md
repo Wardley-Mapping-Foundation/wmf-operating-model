@@ -33,7 +33,7 @@ https://github.com/Wardley-Mapping-Foundation/wmf-operating-model/issues/30
 - Catherine will look at doc after call.
 - Arrange collaborative editing after 3pm on Friday, in General Discord channel, @spurkis to do calendar invite.
 
-https://github.com/orgs/Wardley-Mapping-Foundation/projects/6/views/1#
+https://github.com/Wardley-Mapping-Foundation/wmf-operating-model/issues/73
 
 - @spurkis waiting to reach out.
 
